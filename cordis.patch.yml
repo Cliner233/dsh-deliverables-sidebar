@@ -1,0 +1,4 @@
+- insert:
+    - id: cliner-deliverables-sidebar
+      name: '@cliner/dsh-deliverables-sidebar'
+      config: {}
