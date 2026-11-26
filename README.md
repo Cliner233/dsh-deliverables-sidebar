@@ -12,9 +12,13 @@
 - 仅命令行创建且没有交付或链接的文件无法识别；无文件系统记录时不猜测。
 - 排序偏好保留到当前页面插件生命周期结束。无联网、无删除、无自动打开文件。
 
-##效果展示
-<img width="852" height="1365" alt="image" src="https://github.com/user-attachments/assets/0e92693f-7b5c-409f-8800-bf937e3f69e7" />
-<img width="858" height="1374" alt="image" src="https://github.com/user-attachments/assets/2bfb58b8-a0e7-4c99-ae24-4e6b50739988" />
+## 效果展示
+
+#### 右侧栏入口
+<img width="400" alt="右侧栏入口" src="https://github.com/user-attachments/assets/c64238f8-7225-427f-bdd2-9e9c0aa57e83" />
+
+#### 交付物列表与排序
+<img width="400" alt="交付物列表与排序" src="https://github.com/user-attachments/assets/a2bebf6e-8a60-425e-ac08-48288c71767a" />
 
 
 
